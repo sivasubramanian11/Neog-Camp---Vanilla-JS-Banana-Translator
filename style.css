@@ -1,13 +1,28 @@
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
 #txt-input{
-    width:30%;
+    width:20%;
     height:10vh;
-    margin:5px;
+    margin:15px;
     padding:5px;
+
 }
 
 #output{
-    width:30%;
+    width:20%;
     height:10vh;
-    margin:5px;
+    margin:15px;
     padding:5px;
+  
 }
+
+#btn-translate{
+    border-radius: 4px;
+    margin:10px;
+
+}
+
